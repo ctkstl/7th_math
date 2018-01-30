@@ -6,6 +6,20 @@ permalink: /outline/
 
 # 7th Grade Math - Green Book
 
+* Chapter 7
+   * [7-1 Percents](7-1-Percents)
+   * [7-2 Percents, Decimals, Fractions](7-2-Percents)
+   * [7-3 Percents great than 100% and Less than 1%](7-3-Percents)
+   * [7-4 Find the Percentage of a Number](7-4-Find-Percentage)
+   * [7-5 Find Percent](7-5-Find-Percent)
+   * [7-6 Find the base](7-6-Findbase)
+   * [7-7 Estimate with Percents](7-7-EstimatePercents)
+   * [7-8 Percent Increase](7-8-PercentIncrease)
+   * [7-9 Percent Decrease](7-9-PercentDecrease)
+   * [7-10 Sales Tax and Tip](7-10-SalesTaxTip)
+   * [7-11 Discount and Markup](7-11-DiscountMarkup)
+   * [7-12 Commission](7-12-Commission)
+   * [7-13 Simple Interest](7-13-SimpleInterest)
 * Chapter 8
    * [8-1 Samples and Surveys](8-1-Samples-green)
    * [8-2 Measures of Central Tendency and Range](8-2-MeasuresCentralTendency)
