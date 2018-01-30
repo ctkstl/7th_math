@@ -75,3 +75,7 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+
+paginate: 10
+paginate_path: "/lessons/page:num/"
