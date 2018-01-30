@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outline
-permalink: /outline/
+permalink: /outline
 ---
 
 # 7th Grade Math - Green Book
