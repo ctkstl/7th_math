@@ -30,6 +30,6 @@ permalink: /outline
    * [8-7 Stem and Leaf Plots](8-7-StemLeaf)
    * [8-8 Box and Whisker Plots](8-8-BoxWhisker)
    * [8-9 Venn Diagrams](8-9-Venn)
-   * [8-10 Multiple Line Graphs](8-10-Multiple-Line)
+   * [8-10 Multiple Line Graphs](8-10-MultipleLine)
    * [8-11 Scatter Plots](8-11-ScatterPlots)
 
