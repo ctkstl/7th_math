@@ -26,8 +26,10 @@ permalink: /outline
    * [8-3 Interpret Data](8-3-InterpretData)
    * [8-4 Choose and Appropriate Graph](8-4-ChooseGraph)
    * [8-5 Multiple Bar Graphs](8-5-MultipleBarGraphs)
-   * [8-6 Histograms[(8-6-Histograms)
+   * [8-6 Histograms](8-6-Histograms)
    * [8-7 Stem and Leaf Plots](8-7-StemLeaf)
    * [8-8 Box and Whisker Plots](8-8-BoxWhisker)
    * [8-9 Venn Diagrams](8-9-Venn)
+   * [8-10 Multiple Line Graphs](8-10-Multiple-Line)
+   * [8-11 Scatter Plots](8-11-ScatterPlots)
 
