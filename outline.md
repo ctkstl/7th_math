@@ -34,9 +34,9 @@ permalink: /outline
    * [8-11 Scatter Plots](8-11-ScatterPlots)
    * [8-12 Misleading Statistics and Graphs]
  * Chapter 9
-    * [9-1 Points, Lines, and Planes]
-    * [9-2 Classify and Measure Angles]
-    * [9-3 Angle Pairs]
+    * [9-1 Points, Lines, and Planes](9-1-Points)
+    * [9-2 Classify and Measure Angles](9-2-ClassifyAngles)
+    * [9-3 Angle Pairs](9-3-AnglePairs)
     * [9-4 Parallel Lines and Transversals]
     * [9-5 Congruent Angles and Line Segments]
     * [9-6 Line Constructions]
