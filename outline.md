@@ -58,6 +58,6 @@ permalink: /outline
     * [12-4 Experimental Probability](12-4-Experimental)
     * [12-5 Odds and Fairness](12-5-OddsFairness)
     * [12-6 Compound Events](12-6-Compound)
-    * [12-7 Permutations]
-    * [12-8 Combinations]
+    * [12-7 Permutations](12-7-Permutations)
+    * [12-8 Combinations](12-8-Combinations)
   
