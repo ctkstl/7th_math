@@ -56,8 +56,8 @@ permalink: /outline
     * [12-2 Fundamental Counting Principle and Factorials](12-2-CountingPrinciple)
     * [12-3 Theoretical Probability](12-3-Theoretical)
     * [12-4 Experimental Probability](12-4-Experimental)
-    * [12-5 Odds and Fairness]
-    * [12-6 Compound Events]
+    * [12-5 Odds and Fairness](12-5-OddsFairness)
+    * [12-6 Compound Events](12-6-Compound)
     * [12-7 Permutations]
     * [12-8 Combinations]
   
