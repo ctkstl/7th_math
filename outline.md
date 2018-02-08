@@ -52,8 +52,8 @@ permalink: /outline
     * [10-4 Irrational Numbers]
     * [10-5 Pythagorean Theorem]
   * Chapter 12
-    * [12-1 Sample Space]
-    * [12-2 Fundamental Counting Principle and Factorials]
+    * [12-1 Sample Space](12-1-SampleSpace)
+    * [12-2 Fundamental Counting Principle and Factorials](12-2-CountingPrinciple)
     * [12-3 Theoretical Probability]
     * [12-4 Experimental Probability]
     * [12-5 Odds and Fairness]
