@@ -46,7 +46,7 @@ permalink: /outline
     * [9-10 Triangle Constructions]
     * [9-11 Quadrilaterals](9-11-Quadrilaterals)
     * [9-12 Circles](9-12-Circles)
-    * [9-13 Make a Circle Graph]
+    * [9-13 Make a Circle Graph](9-13-MakeCircleGraph)
   * Chapter 10
     * [10-3 Squares and Square roots](10-3-SquaresRoots)
     * [10-4 Irrational Numbers]
