@@ -45,7 +45,7 @@ permalink: /outline
     * [9-9 Congruent Triangles]
     * [9-10 Triangle Constructions]
     * [9-11 Quadrilaterals]
-    * [9-12 Circles]
+    * [9-12 Circles](9-12-Circles)
     * [9-13 Make a Circle Graph]
   * Chapter 10
     * [10-3 Squares and Square roots](10-3-SquaresRoots)
