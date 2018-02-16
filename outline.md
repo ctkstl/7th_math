@@ -40,8 +40,8 @@ permalink: /outline
     * [9-4 Parallel Lines and Transversals]
     * [9-5 Congruent Angles and Line Segments](9-5-CongruentAngles)
     * [9-6 Line Constructions](9-6-LineConstruction)
-    * [9-7 Polygons]
-    * [9-8 Triangles]
+    * [9-7 Polygons](9-7-Polygons)
+    * [9-8 Triangles](9-8-Triangles)
     * [9-9 Congruent Triangles]
     * [9-10 Triangle Constructions]
     * [9-11 Quadrilaterals](9-11-Quadrilaterals)
