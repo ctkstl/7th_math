@@ -32,7 +32,7 @@ permalink: /outline
    * [8-9 Venn Diagrams](8-9-Venn)
    * [8-10 Multiple Line Graphs](8-10-MultipleLine)
    * [8-11 Scatter Plots](8-11-ScatterPlots)
-   * [8-12 Misleading Statistics and Graphs]
+   * [8-12 Misleading Statistics and Graphs](8-12-MisleadingStatistics)
  * Chapter 9
     * [9-1 Points, Lines, and Planes](9-1-Points)
     * [9-2 Classify and Measure Angles](9-2-ClassifyAngles)
