@@ -42,8 +42,8 @@ permalink: /outline
     * [9-6 Line Constructions](9-6-LineConstruction)
     * [9-7 Polygons](9-7-Polygons)
     * [9-8 Triangles](9-8-Triangles)
-    * [9-9 Congruent Triangles]
-    * [9-10 Triangle Constructions]
+    * [9-9 Congruent Triangles](9-9-CongruentTriangles)
+    * [9-10 Triangle Constructions](9-10-TriangleConstruction)
     * [9-11 Quadrilaterals](9-11-Quadrilaterals)
     * [9-12 Circles](9-12-Circles)
     * [9-13 Make a Circle Graph](9-13-MakeCircleGraph)
