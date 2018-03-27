@@ -50,7 +50,7 @@ permalink: /outline
   * Chapter 10
     * [10-3 Squares and Square roots](10-3-SquaresRoots)
     * [10-4 Irrational Numbers](10-4-Irrational-Numbers)
-    * [10-5 Pythagorean Theorem]
+    * [10-5 Pythagorean Theorem](10-5-Pythagorean)
   * Chapter 12
     * [12-1 Sample Space](12-1-SampleSpace)
     * [12-2 Fundamental Counting Principle and Factorials](12-2-CountingPrinciple)
