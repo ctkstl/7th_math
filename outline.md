@@ -60,4 +60,21 @@ permalink: /outline
     * [12-6 Compound Events](12-6-Compound)
     * [12-7 Permutations](12-7-Permutations)
     * [12-8 Combinations](12-8-Combinations)
+  * Chapter 13
+    * [13-1 Arithmetic and Geometric Sequences](13-1-Sequences)
+    * [13-2 Algebraic Patterns and Sequences]
+    * [13-4 & 13-5 Relations and Functions]
+    * [13-6 Graph Linear Functions]
+    * [13-7 Slope]
+    * [13-8 Nonlinear Functions]
+    * [13-9 Graph a Situation]
+  * Chapter 14
+    * [14-1 & 14-2 Polynomials]
+    * [14-3 & 14-4 Add and Subtract Polynomials]
+    * [14-5 Multiply and Divide Monomials]
+    * [14-6 Multiply Polynomials by Monomials]
+    * [14-7 Divide Polynomials by Monomials]
+    * [14-8 Solve Multistep Equations]
+    * [14-9 Addition and Subtraction Inequalities]
+    * [14-10 Multiplication and Division Inequalities]
   
