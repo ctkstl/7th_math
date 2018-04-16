@@ -62,7 +62,7 @@ permalink: /outline
     * [12-8 Combinations](12-8-Combinations)
   * Chapter 13
     * [13-1 Arithmetic and Geometric Sequences](13-1-Sequences)
-    * [13-2 Algebraic Patterns and Sequences]
+    * [13-2 Algebraic Patterns and Sequences](13-2-AlgebraicPatterns)
     * [13-4 & 13-5 Relations and Functions]
     * [13-6 Graph Linear Functions]
     * [13-7 Slope]
