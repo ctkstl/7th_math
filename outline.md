@@ -67,7 +67,7 @@ permalink: /outline
     * [13-6 Graph Linear Functions](13-6-Graph-Functions)
     * [13-7 Slope](13-7-Slope)
     * [13-8 Nonlinear Functions](13-8-Nonlinear)
-    * [13-9 Graph a Situation]
+    * [13-9 Graph a Situation](13-9-Graph-Situation)
   * Chapter 14
     * [14-1 & 14-2 Polynomials]
     * [14-3 & 14-4 Add and Subtract Polynomials]
