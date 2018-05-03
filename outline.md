@@ -70,7 +70,7 @@ permalink: /outline
     * [13-9 Graph a Situation](13-9-Graph-Situation)
   * Chapter 14
     * [14-1 & 14-2 Polynomials](14-1-Polynomials)
-    * [14-3 & 14-4 Add and Subtract Polynomials]
+    * [14-3 & 14-4 Add and Subtract Polynomials](14-4-Add-Polynomials)
     * [14-5 Multiply and Divide Monomials]
     * [14-6 Multiply Polynomials by Monomials]
     * [14-7 Divide Polynomials by Monomials]
