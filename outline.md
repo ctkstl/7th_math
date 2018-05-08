@@ -73,8 +73,7 @@ permalink: /outline
     * [14-3 & 14-4 Add and Subtract Polynomials](14-4-Add-Polynomials)
     * [14-5 Multiply and Divide Monomials](14-5-MD-monomials)
     * [14-6 Multiply Polynomials by Monomials](14-6-Multiply-Polynomials)
-    * [14-7 Divide Polynomials by Monomials]
-    * [14-8 Solve Multistep Equations]
-    * [14-9 Addition and Subtraction Inequalities]
-    * [14-10 Multiplication and Division Inequalities]
+    * [14-7 Divide Polynomials by Monomials](14-7-DividePolynomial)
+    * [14-8 Solve Multistep Equations](14-8-Multistep)
+    * [14-9&10 Solve Inequalities](14-9-Inequalities)
   
